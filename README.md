@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin W. (OnixTakeSama)
 - 👀 I’m interested in video games, development, music..
-- 🌱 I’m currently learning HTML, CSS, Java, Python
+- 🌱 I’m currently learning HTML, CSS, Java, Python, C..
 - 📫 How to reach me : @OnixTakeSamaa (TWITTER)
 
 <!---
