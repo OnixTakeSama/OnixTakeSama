@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnixTakeSama
+- 👋 Hi, I’m Benjamin W. (OnixTakeSama)
 - 👀 I’m interested in video games, development, music..
 - 🌱 I’m currently learning HTML, CSS, Java, Python
 - 📫 How to reach me : @OnixTakeSamaa (TWITTER)
