@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Dev, Java, Python.
 - 📫 How to reach me : @OnixTakeSama#6624 (Discord)
 
-[![My Skills](https://skillicons.dev/icons?i=discord,html,css,java,js,c,py,eclipse,bash,idea,vscode,instagram,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,html,css,java,py,eclipse,idea,vscode,instagram,twitter)](https://skillicons.dev)
 
 <!---
 OnixTakeSama/OnixTakeSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
