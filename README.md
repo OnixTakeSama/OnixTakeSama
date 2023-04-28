@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin W. (OnixTakeSama)
 - 👀 I’m interested in video games, development, music..
-- 🌱 I’m currently learning Web Dev, Java, Python.
+- 🌱 I’m currently learning HTML/CSS, PHP, JavaScript, Java, Python.
 - 📫 How to reach me : @OnixTakeSama#6624 (Discord)
 
 [![My Skills](https://skillicons.dev/icons?i=discord,html,css,javascript,php,java,py,eclipse,idea,vscode,instagram,twitter)](https://skillicons.dev)
