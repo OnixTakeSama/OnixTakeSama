@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS, PHP, JavaScript.
 - 📫 How to reach me : onixtakesama (Discord) / https://www.linkedin.com/in/benjamin-wattre/
 
-[![My Skills](https://skillicons.dev/icons?i=discord,html,css,javascript,php,java,py,eclipse,idea,vscode,instagram,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,html,css,javascript,nodejs,php,java,py,eclipse,idea,vscode,instagram,twitter)](https://skillicons.dev)
 
 <!---
 OnixTakeSama/OnixTakeSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
