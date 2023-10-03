@@ -4,9 +4,11 @@
 - 📫 How to reach me : onixtakesama (Discord) / https://www.linkedin.com/in/benjamin-wattre/
 
 Skills:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,java,py,eclipse,idea,vscode)](https://skillicons.dev)
-
+<br>
 Social Medias:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=discord,instagram,twitter)](https://skillicons.dev)
 
 <!---
