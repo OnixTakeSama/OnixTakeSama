@@ -3,9 +3,13 @@
 - 🌱 I’m currently learning HTML/CSS and JavaScript.
 - 📫 How to reach me : onixtakesama (Discord) / https://www.linkedin.com/in/benjamin-wattre/
 
-Skills:
+Languages:
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,java,py,eclipse,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,java,py)](https://skillicons.dev)
+<br>
+Softwares:
+<br>
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,eclipse)](https://skillicons.dev)
 <br>
 Social Medias:
 <br>
