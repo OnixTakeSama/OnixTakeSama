@@ -9,7 +9,7 @@ Skills:
 <br>
 Social Medias:
 <br>
-[![My Skills](https://skillicons.dev/icons?i=discord,instagram,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,instagram,twitter,linkedin)](https://skillicons.dev)
 
 <!---
 OnixTakeSama/OnixTakeSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
