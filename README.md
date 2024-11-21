@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Benjamin W. (OnixTakeSama)
 - 👀 I’m interested in video games, development, music..
-- 🌱 I’m currently learning HTML/CSS and JavaScript.
 - 📫 How to reach me : onixtakesama (Discord) / https://www.linkedin.com/in/benjamin-wattre/
 
 Languages:
